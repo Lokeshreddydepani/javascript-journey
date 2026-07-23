@@ -5,7 +5,7 @@ function printHeader(){
 
 }
 const developer ={
-     profile :{
+     profile (){
         name: "Lokesh",
     age: 23,
     college: "NIAMT Ranchi"
